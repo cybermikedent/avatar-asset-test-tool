@@ -19,14 +19,14 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "Boots_B01.glb", 
+"model": "Boots_B02.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
    ]
 },
-{"type": "BaseFemale", "model": "Boots_B01.glb"}
+{"type": "BaseFemale", "model": "Boots_B02.glb"}
   ],
   "rarity": "mythic",
-  "description": "Live Free or Die Hard"
+  "description": "By Cybermike - Live Free or Die Hard"
 }

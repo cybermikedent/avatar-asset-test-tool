@@ -19,7 +19,7 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "Torso_D18.glb", 
+"model": "Torso_D19.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
@@ -28,5 +28,5 @@
 {"type": "BaseFemale", "model": ""}
   ],
   "rarity": "mythic",
-  "description": "Live Free or Die Hard"
+  "description": "By Cybermike - Live Free or Die Hard"
 }

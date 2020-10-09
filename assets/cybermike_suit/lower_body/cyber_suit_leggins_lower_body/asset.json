@@ -19,7 +19,7 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "LegsA01.glb", 
+"model": "LegsA02.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
