@@ -19,7 +19,7 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "Torso_D08.glb", 
+"model": "Torso_D16.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
